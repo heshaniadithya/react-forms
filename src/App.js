@@ -90,7 +90,7 @@ function App() {
           id="dob"
           name="dob"
           type="date"
-          max="2005-01-27"
+          max="2024-01-30"
           placeholder="Date of birth"
           onChange={handleInput}
           />
