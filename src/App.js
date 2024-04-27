@@ -152,7 +152,7 @@ function App() {
             type="button"
             onClick={handleAddPrompt}
             >
-              Add Promptsf
+              Add Prompt
             </button>
           </div>
         </fieldset>
